@@ -1,0 +1,81 @@
+Age	Surgery1ToSurgery2	Expired	OS	IDH1R132H	MGMT	EGFR	Sex	KPS	Max Diam
+1A	74	307	1	1275	WT	unmethylated	Amplified	F	90	3.9
+1B	74	307	1	1275	WT	NA	Not Amplified	F	90	3
+2A	73	342	1	939	WT	unmethylated	Amplified	F	80	3
+2B	73	342	1	939	WT	NA	Amplified	F	80	0.5
+3A	64	177	1	187	NA	NA	Uninformative	M	70	NA
+3B	64	177	1	187	NA	NA	Not Amplified	M	70	NA
+4A	52	364	1	465	WT	methylated	Amplified	M	90	1
+4B	52	364	1	465	WT	NA	Amplified	M	80	2.8
+5A	49	820	1	1172	NA	NA	Not Amplified	F	80	1.5
+5B	49	820	1	1172	NA	NA	Not Amplified	F	80	0.2
+7A	63	828	1	1142	NA	NA	Amplified	F	90	1.3
+7B	63	828	1	1142	WT	unmethylated	Amplified	F	80	4.3
+8A	69	277	1	366	NA	NA	Not Amplified	F	NA	NA
+8B	69	277	1	366	NA	NA	Not Amplified	F	NA	NA
+9A	40	126	1	483	NA	NA	Amplified	M	90	NA
+9B	40	126	1	483	NA	NA	Amplified	M	90	NA
+10A	81	487	1	796	NA	NA	Not Amplified	M	90	1.3
+10B	81	487	1	796	NA	NA	Not Amplified	M	80	3.3
+11A	47	364	1	627	NA	NA	Not Amplified	M	90	5
+11B	47	364	1	627	NA	NA	Not Amplified	M	90	NA
+12A	54	1807	1	2426	NA	NA	Amplified	F	90	NA
+12B	54	1807	1	2426	NA	NA	Amplified	F	80	3.7
+13A	55	96	1	544	NA	NA	Amplified	M	80	4
+13B	55	96	1	544	NA	NA	Amplified	M	80	4.2
+14A	21	1538	1	2016	WT	NA	Not Amplified	M	90	5
+14B	21	1538	1	2016	NA	methylated	Not Amplified	M	90	3
+17A	54	97	1	492	NA	NA	Not Amplified	F	90	4.7
+17B	54	97	1	492	NA	NA	Not Amplified	F	NA	NA
+19A	42	230	1	591	NA	NA	Amplified	M	90	4
+19B	42	230	1	591	NA	NA	Amplified	M	90	4
+24A	44	241	1	336	NA	NA	Amplified	M	90	3.5
+24B	44	241	1	336	NA	NA	Amplified	M	40	6
+25A	60	295	1	509	NA	NA	Amplified	M	90	4.8
+25B	60	295	1	509	NA	NA	Not Amplified	M	60	2.5
+26A	63	375	1	1078	WT	unmethylated	Amplified	F	90	4
+26B	63	375	1	1078	NA	NA	Amplified	F	80	1.5
+27A	68	538	1	1591	mut	methylated	Amplified	M	80	4
+27B	68	538	1	1591	NA	NA	Amplified	M	80	1.3
+30A	47	137	1	601	WT	unmethylated	Amplified	M	90	2.5
+30B	47	137	1	601	NA	NA	Amplified	M	90	9
+31A	51	116	1	245	NA	NA	Amplified	M	NA	4
+31B	51	116	1	245	NA	NA	Amplified	M	NA	5.5
+32A	65	120	1	239	NA	NA	Amplified	F	70	NA
+32B	65	120	1	239	NA	NA	Amplified	F	70	NA
+33A	67	154	1	314	WT	unmethylated	Not Amplified	M	90	4.2
+33B	67	154	1	314	NA	NA	Not Amplified	M	80	NA
+34A	67	514	1	697	WT	NA	Amplified	M	80	4
+34B	67	514	1	697	NA	NA	Amplified	M	80	1.3
+35A	56	91	1	290	NA	NA	Not Amplified	M	90	3.9
+35B	56	91	1	290	NA	NA	Amplified	M	NA	NA
+36A	68	6	1	13	WT	unmethylated	Not Amplified	M	NA	NA
+36B	68	6	1	13	NA	NA	Not Amplified	NA	NA	NA
+37A	51	103	1	2945	NA	NA	Not Amplified	M	90	4
+37B	51	103	1	2945	NA	NA	Not Amplified	M	90	5
+38A	53	219	1	452	NA	NA	Not Amplified	M	100	2.4
+38B	53	219	1	452	NA	NA	Not Amplified	M	100	7
+39A	64	202	1	632	WT	methylated	Not Amplified	M	90	9
+39B	64	202	1	632	NA	NA	Not Amplified	M	80	1.9
+40A	45	91	1	252	NA	NA	Not Amplified	F	80	3.6
+40B	45	91	1	252	NA	NA	Not Amplified	F	70	NA
+41A	41	546	1	928	NA	NA	Not Amplified	M	80	4.7
+41B	41	546	1	928	NA	NA	Not Amplified	M	80	3
+42A	69	177	1	584	NA	NA	Not Amplified	M	90	4
+42B	69	177	1	584	NA	NA	Not Amplified	M	80	5.8
+43A	43	1141	1	1183	NA	NA	Amplified	F	70	7
+43B	43	1141	1	1183	NA	NA	Amplified	F	70	6.2
+44A	71	39	1	122	NA	NA	Not Amplified	F	70	3.5
+44B	71	39	1	122	NA	NA	Not Amplified	F	60	3.5
+45A	47	217	1	498	NA	NA	Not Amplified	M	90	4.2
+45B	47	217	1	498	NA	NA	Not Amplified	M	80	1.8
+46A	64	776	1	1017	NA	NA	Amplified	M	100	4.0999999999999996
+46B	64	776	1	1017	NA	NA	Amplified	M	90	6.5
+47A	59	105	1	347	NA	NA	Not Amplified	M	90	1.2
+47B	59	105	1	347	NA	NA	Amplified	M	80	2.1
+48A	57	694	1	908	WT	methylated	Not Amplified	M	80	1.3
+48B	57	694	1	908	NA	NA	Amplified	M	60	1.1000000000000001
+49A	59	106	1	289	WT	unmethylated	Amplified	M	90	5
+49B	59	106	1	289	NA	NA	Not Amplified	M	60	2.4
+50A	54	219	1	545	WT	unmethylated	Amplified	M	90	3.5
+50B	54	219	1	545	NA	NA	Not Amplified	M	60	1
